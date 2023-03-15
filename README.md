@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AminMkh
 - 👀 I’m interested in Web development / DevOps
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on awesome projects!
 - 📫 You can reach me on LinkedIn
 
 <!---
